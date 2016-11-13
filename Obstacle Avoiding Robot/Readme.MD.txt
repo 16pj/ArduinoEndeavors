@@ -1,0 +1,1 @@
+A simple obstacle avoiding robot that works by using an ultrasonic sensor and motors.
